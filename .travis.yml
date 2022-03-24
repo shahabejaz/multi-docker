@@ -22,3 +22,4 @@ after_success:
   - docker push shahabejaz/multi-nginx
   - docker push shahabejaz/multi-server
   - docker push shahabejaz/multi-worker
+  
